@@ -1,0 +1,8 @@
+C:\保存用\デスクトップ\FoodReverse\FoodReverse\Debug\DirectXLibrary.pdb
+C:\保存用\デスクトップ\FoodReverse\FoodReverse\DirectXLibrary\Debug\DirectXLibrary.pdb
+C:\保存用\デスクトップ\study\Debug\DirectXLibrary.pdb
+C:\保存用\デスクトップ\study\DirectXLibrary\Debug\DirectXLibrary.pdb
+D:\デスクトップ\study\Debug\DirectXLibrary.pdb
+D:\デスクトップ\study\DirectXLibrary\Debug\DirectXLibrary.pdb
+C:\保存用\デスクトップ\3Dテスト\Debug\DirectXLibrary.pdb
+C:\保存用\デスクトップ\3Dテスト\DirectXLibrary\Debug\DirectXLibrary.pdb

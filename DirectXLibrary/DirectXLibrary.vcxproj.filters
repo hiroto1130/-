@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Window">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Device">
+      <UniqueIdentifier>{e9473182-a96e-4e00-ae58-a2775af4d533}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Device\Input">
+      <UniqueIdentifier>{51feb69e-1c62-4721-81e0-f5eb79718305}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utility">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="3D">
+      <UniqueIdentifier>{71193e1d-4abb-4439-8bb5-0cbc5d1a3e52}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3D\FBX">
+      <UniqueIdentifier>{ef2505e2-de73-4fba-ad63-1f2309146824}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3D\Utility">
+      <UniqueIdentifier>{e4f8fef7-ab3e-49fb-82cb-d2f28e5e07c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3D\Render">
+      <UniqueIdentifier>{fca49429-8b5c-405c-a4c4-910169a4c8a4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Collision">
+      <UniqueIdentifier>{b01c4b5d-6a3d-490b-909b-746662372129}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Collision\CollisionManager">
+      <UniqueIdentifier>{7c2a8cb2-7c9a-41a1-a541-7781637e8312}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Winodw\Window.h">
+      <Filter>Window</Filter>
+    </ClInclude>
+    <ClInclude Include="Device\Device.h">
+      <Filter>Device</Filter>
+    </ClInclude>
+    <ClInclude Include="Device\Input\Key.h">
+      <Filter>Device\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="Utility\Position.h">
+      <Filter>Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="Utility\RectSize.h">
+      <Filter>Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="Utility\Uv.h">
+      <Filter>Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="3D\Render\Render.h">
+      <Filter>3D\Render</Filter>
+    </ClInclude>
+    <ClInclude Include="3D\Fbx\FBX.h">
+      <Filter>3D\FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="3D\Utility\Matrix.h">
+      <Filter>3D\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="3D\Utility\Vector.h">
+      <Filter>3D\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="3D\Render\Camera.h">
+      <Filter>3D\Render</Filter>
+    </ClInclude>
+    <ClInclude Include="3D\Utility\Color.h">
+      <Filter>3D\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="3D\Fbx\Result.h">
+      <Filter>3D\FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="Collision\CollisionManager\CollisionManager.h">
+      <Filter>Collision\CollisionManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Collision\Collider.h">
+      <Filter>Collision</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Winodw\Window.cpp">
+      <Filter>Window</Filter>
+    </ClCompile>
+    <ClCompile Include="Device\Device.cpp">
+      <Filter>Device</Filter>
+    </ClCompile>
+    <ClCompile Include="Device\Input\Key.cpp">
+      <Filter>Device\Input</Filter>
+    </ClCompile>
+    <ClCompile Include="3D\Render\Render.cpp">
+      <Filter>3D\Render</Filter>
+    </ClCompile>
+    <ClCompile Include="3D\Fbx\FBX.cpp">
+      <Filter>3D\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="Collision\CollisionManager\CollisionManager.cpp">
+      <Filter>Collision\CollisionManager</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
